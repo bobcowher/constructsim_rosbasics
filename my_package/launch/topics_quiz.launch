@@ -1,0 +1,5 @@
+<launch>
+    <!-- My Package launch file -->
+    <node pkg="topics_quiz" type="note_and_avoid.py" name="ObiWan"  output="screen">
+    </node>
+</launch>

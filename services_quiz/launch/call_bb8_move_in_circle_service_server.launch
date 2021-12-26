@@ -1,0 +1,7 @@
+<launch>
+
+    <!-- My Package launch file -->
+    <node pkg="services_quiz" type="bb8_move_in_circle_service_client.py" name="call_bb8_move_in_circle_service_server"  output="screen">
+    </node>
+
+</launch>
